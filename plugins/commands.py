@@ -49,7 +49,7 @@ __(Join @SafoTheBot For Support)__
 \u2022 `/unmute` unmute the VC userbot
 \u2022 `/restart` restart the bot
 
-🏷️ **Developer: @I_Am_Only_One_1** 👑
+🏷️ **Developer: @Levinomad_TG** 👑
 """
 
 
@@ -57,8 +57,8 @@ __(Join @SafoTheBot For Support)__
 async def start(client, message):
     buttons = [
         [
-        InlineKeyboardButton('CHANNEL', url='https://t.me/AsmSafone'),
-        InlineKeyboardButton('SUPPORT', url='https://t.me/SafoTheBot'),
+        InlineKeyboardButton('CHANNEL', url='https://t.me/CLALL1'),
+        InlineKeyboardButton('SUPPORT', url='https://t.me/Levinomad_TG'),
     ],
     [
         InlineKeyboardButton('MORE BOTS', url='https://t.me/AsmSafone/12'),
